@@ -1,4 +1,4 @@
-##Lesson activities
+**Lesson activities**
 
 
 <details><summary>(1) Explore Databases</summary>

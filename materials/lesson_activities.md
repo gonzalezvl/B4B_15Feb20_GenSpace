@@ -40,8 +40,11 @@
 
 **Follow UNIX Setup instructions used in The Carpentries** <https://carpentries.org/> : 
 
-- Window's users install Git for Windows
+- **Setup**: <https://swcarpentry.github.io/shell-novice/setup.html>
+- Window's users install Git for Windows: 
 	- <https://gitforwindows.org/>
+- or Putty:
+	- <http://faculty.smu.edu/reynolds/unixtut/windows.html>
 
 **Useful Links**
 

@@ -4,6 +4,7 @@
 <details><summary>(1) Explore Databases</summary>
 <p>
 **Databases** 
+	
 1. We will be using the National Center for Biotechnology Information (NCBI) Genbank Database in our next activity:
 	- NCBI: <https://www.ncbi.nlm.nih.gov/>
 

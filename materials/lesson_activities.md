@@ -3,7 +3,7 @@
 
 <details><summary>(1) Explore Databases</summary>
 <p>
-####Databases 
+**Databases** 
 1. We will be using the National Center for Biotechnology Information (NCBI) Genbank Database in our next activity:
 	- NCBI: <https://www.ncbi.nlm.nih.gov/>
 
@@ -21,7 +21,7 @@
 
 <details><summary>(2) Mystery Species Activity</summary>
 <p>
-####Let's get started:
+**Let's get started:**
 
 1. Open the mystery species data file: mystery_species.fasta.txt
 2. Navigate to [NCBI Blast](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
@@ -37,15 +37,17 @@
 <details><summary>(3) Comand Line Basics </summary>
 <p>
 
-####Follow UNIX Setup instructions used in The Carpentries <https://carpentries.org/> : 
+**Follow UNIX Setup instructions used in The Carpentries** <https://carpentries.org/> : 
 
 - Window's users install Git for Windows
 	- <https://gitforwindows.org/>
-- Useful Links
-	- Command Line for Mac and Windows
-		- (5 min) <https://swcarpentry.github.io/shell-novice/01-intro/index.html>
-		- (30 min) <https://swcarpentry.github.io/shell-novice/02-filedir/index.html>
-		- (30 min) <https://swcarpentry.github.io/shell-novice/03-create/index.html>
+
+**Useful Links**
+
+- Command Line for Mac and Windows
+	- Lesson 1: <https://swcarpentry.github.io/shell-novice/01-intro/index.html>
+	- Lesson 2: <https://swcarpentry.github.io/shell-novice/02-filedir/index.html>
+	- Lesson 3: <https://swcarpentry.github.io/shell-novice/03-create/index.html>
 	
 </p>
 </details>
@@ -54,7 +56,7 @@
 <details><summary>(4) Data Analysis & Data Visualization (usegalaxy.org) </summary>
 <p>
 
-####Sign up
+**Sign up and Tutorial Steps**
 
 1. Sign-up for a Galaxy account at usegalaxy.org
 2. Upload sequences file to UseGalaxy.org instance.
@@ -66,10 +68,12 @@
 5. Tree building (zika virus; https://nextstrain.org/zika)
 	- Generate a Phylogeny (study evolution) using IQtree.
 	- Visualize the phylogeny using the integrated "Phylogenetic Tree Visualization" tool.
-- Useful Links 
-	- Introduction to Galaxy
-		- <https://galaxyproject.org/learn/>
-		- <https://training.galaxyproject.org/training-material/topics/introduction/>
+
+**Useful Links** 
+
+- Introduction to Galaxy
+	- <https://galaxyproject.org/learn/>
+	- <https://training.galaxyproject.org/training-material/topics/introduction/>
 </p>
 </details>
 

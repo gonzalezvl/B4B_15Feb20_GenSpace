@@ -23,12 +23,12 @@
 <p>
 ####Let's get started:
 
-- Open the mystery species data file: mystery_species.fasta.txt
-- Navigate to [NCBI Blast](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
-- Choose any DNA sequence from the file and copy the sequence. 
-- Paste the sequence in the "Enter Query Sequence" window.
-- Search all "Standard databases (nr etc.)"  for "Highly similar sequences (megablast)"
-- Investigate the top match. Use a search engine to retrieve a photo of your mystery species!
+1. Open the mystery species data file: mystery_species.fasta.txt
+2. Navigate to [NCBI Blast](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+3. Choose any DNA sequence from the file and copy the sequence. 
+4. Paste the sequence in the "Enter Query Sequence" window.
+5. Search all "Standard databases (nr etc.)"  for "Highly similar sequences (megablast)"
+6. Investigate the top match. Use a search engine to retrieve a photo of your mystery species!
 
 </p>
 </details>
@@ -44,8 +44,8 @@
 - Useful Links
 	- Command Line for Mac and Windows
 		- (5 min) <https://swcarpentry.github.io/shell-novice/01-intro/index.html>
-		- (40 min) <https://swcarpentry.github.io/shell-novice/02-filedir/index.html>
-		- (50 min) <https://swcarpentry.github.io/shell-novice/03-create/index.html>
+		- (30 min) <https://swcarpentry.github.io/shell-novice/02-filedir/index.html>
+		- (30 min) <https://swcarpentry.github.io/shell-novice/03-create/index.html>
 	
 </p>
 </details>
@@ -53,7 +53,9 @@
 
 <details><summary>(4) Data Analysis & Data Visualization (usegalaxy.org) </summary>
 <p>
+
 ####Sign up
+
 1. Sign-up for a Galaxy account at usegalaxy.org
 2. Upload sequences file to UseGalaxy.org instance.
 (Zika data from Next Strain.org; https://nextstrain.org/zika)

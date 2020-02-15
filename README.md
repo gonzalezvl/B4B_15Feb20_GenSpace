@@ -14,7 +14,7 @@ This repository contains the [data](https://github.com/gonzalezvl/B4B_15Feb20_Ge
 |1:00 pm| Data Wrangling |
 |1:50 pm |Data Analysis (usegalaxy.org) |
 |3:00 pm |Break |
-|3:00 pm |Data Visualization (usegalaxy.org) |
+|3:00 pm |Data Visualization |
 |4:15 pm |AMA!|
 
 
